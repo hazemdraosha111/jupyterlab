@@ -17,7 +17,7 @@
     "@jupyterlab/filebrowser": "^4.1.0-beta.0",
     "@jupyterlab/fileeditor": "^4.1.0-beta.0",
     "@jupyterlab/services": "^7.1.0-beta.0",
-    "@jupyterlab/theme-light-extension": "^4.1.0-beta.0",
+    "@jupyterlab/theme-light-extension": "^0.6.0",
     "@jupyterlab/translation": "^4.1.0-beta.0",
     "@jupyterlab/ui-components": "^4.1.0-beta.0",
     "@lumino/commands": "^2.2.0",
