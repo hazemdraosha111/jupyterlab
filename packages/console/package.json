@@ -47,7 +47,7 @@
     "@codemirror/view": "^6.9.6",
     "@jupyter/ydoc": "^1.1.1",
     "@jupyterlab/apputils": "^4.2.0-beta.0",
-    "@jupyterlab/cells": "^4.1.0-beta.0",
+    "@jupyterlab/cells": "^0.1.2",
     "@jupyterlab/codeeditor": "^4.1.0-beta.0",
     "@jupyterlab/coreutils": "^6.1.0-beta.0",
     "@jupyterlab/nbformat": "^4.1.0-beta.0",
