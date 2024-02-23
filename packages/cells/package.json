@@ -49,7 +49,7 @@
     "@jupyterlab/apputils": "^4.2.0-beta.0",
     "@jupyterlab/attachments": "^4.1.0-beta.0",
     "@jupyterlab/codeeditor": "^4.1.0-beta.0",
-    "@jupyterlab/codemirror": "^4.1.0-beta.0",
+    "@jupyterlab/codemirror": "^0.1.1",
     "@jupyterlab/coreutils": "^6.1.0-beta.0",
     "@jupyterlab/documentsearch": "^4.1.0-beta.0",
     "@jupyterlab/filebrowser": "^4.1.0-beta.0",
