@@ -35,7 +35,7 @@
     "@jupyterlab/apputils": "^4.2.0-beta.0",
     "@jupyterlab/cells": "^4.1.0-beta.0",
     "@jupyterlab/codemirror": "^4.1.0-beta.0",
-    "@jupyterlab/notebook": "^4.1.0-beta.0",
+    "@jupyterlab/notebook": "^0.1.2",
     "@jupyterlab/outputarea": "^4.1.0-beta.0",
     "@jupyterlab/rendermime": "^4.1.0-beta.0"
   },
