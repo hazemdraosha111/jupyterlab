@@ -15,7 +15,7 @@
     "@jupyterlab/docmanager": "^4.1.0-beta.0",
     "@jupyterlab/docregistry": "^4.1.0-beta.0",
     "@jupyterlab/filebrowser": "^4.1.0-beta.0",
-    "@jupyterlab/fileeditor": "^4.1.0-beta.0",
+    "@jupyterlab/fileeditor": "^0.5.0",
     "@jupyterlab/services": "^7.1.0-beta.0",
     "@jupyterlab/theme-light-extension": "^4.1.0-beta.0",
     "@jupyterlab/translation": "^4.1.0-beta.0",
