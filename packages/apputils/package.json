@@ -45,15 +45,15 @@
     "watch": "tsc -b --watch"
   },
   "dependencies": {
-    "@jupyterlab/coreutils": "^6.1.0-beta.0",
+    "@jupyterlab/coreutils": "^0.1.1",
     "@jupyterlab/observables": "^5.1.0-beta.0",
     "@jupyterlab/rendermime-interfaces": "^3.9.0-beta.0",
     "@jupyterlab/services": "^7.1.0-beta.0",
     "@jupyterlab/settingregistry": "^4.1.0-beta.0",
     "@jupyterlab/statedb": "^4.1.0-beta.0",
-    "@jupyterlab/statusbar": "^4.1.0-beta.0",
+    "@jupyterlab/statusbar": "^0.1.0",
     "@jupyterlab/translation": "^4.1.0-beta.0",
-    "@jupyterlab/ui-components": "^4.1.0-beta.0",
+    "@jupyterlab/ui-components": "^1.0.0",
     "@lumino/algorithm": "^2.0.1",
     "@lumino/commands": "^2.2.0",
     "@lumino/coreutils": "^2.1.2",
