@@ -38,7 +38,7 @@
   "dependencies": {
     "@jupyterlab/nbformat": "^4.2.0",
     "@jupyterlab/observables": "^5.2.0",
-    "@jupyterlab/rendermime": "^4.2.0",
+    "@jupyterlab/rendermime": "^0.1.3",
     "@jupyterlab/rendermime-interfaces": "^3.10.0",
     "@lumino/disposable": "^2.1.2",
     "@lumino/signaling": "^2.1.2"
