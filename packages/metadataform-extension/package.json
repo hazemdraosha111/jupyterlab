@@ -40,10 +40,10 @@
   },
   "dependencies": {
     "@jupyterlab/application": "^4.3.0-beta.1",
-    "@jupyterlab/metadataform": "^4.3.0-beta.1",
+    "@jupyterlab/metadataform": "^4.0.0",
     "@jupyterlab/notebook": "^4.3.0-beta.1",
     "@jupyterlab/settingregistry": "^4.3.0-beta.1",
-    "@jupyterlab/translation": "^4.3.0-beta.1",
+    "@jupyterlab/translation": "^3.0.0",
     "@jupyterlab/ui-components": "^4.3.0-beta.1",
     "@lumino/coreutils": "^2.1.2"
   },
