@@ -37,7 +37,7 @@
   },
   "dependencies": {
     "@jupyterlab/nbformat": "^4.3.0-rc.1",
-    "@jupyterlab/statedb": "^4.3.0-rc.1",
+    "@jupyterlab/statedb": "^2.0.0",
     "@lumino/commands": "^2.3.1",
     "@lumino/coreutils": "^2.2.0",
     "@lumino/disposable": "^2.1.3",
