@@ -40,11 +40,11 @@
   },
   "dependencies": {
     "@jupyterlab/application": "^4.3.0-rc.1",
-    "@jupyterlab/metadataform": "^4.3.0-rc.1",
+    "@jupyterlab/metadataform": "^4.0.0",
     "@jupyterlab/notebook": "^4.3.0-rc.1",
     "@jupyterlab/settingregistry": "^4.3.0-rc.1",
-    "@jupyterlab/translation": "^4.3.0-rc.1",
-    "@jupyterlab/ui-components": "^4.3.0-rc.1",
+    "@jupyterlab/translation": "^3.0.0",
+    "@jupyterlab/ui-components": "^1.0.0",
     "@lumino/coreutils": "^2.2.0"
   },
   "devDependencies": {
