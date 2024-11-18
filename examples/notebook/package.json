@@ -19,7 +19,7 @@
     "@jupyterlab/documentsearch": "^4.4.0-alpha.0",
     "@jupyterlab/markedparser-extension": "^4.4.0-alpha.0",
     "@jupyterlab/mathjax-extension": "^4.4.0-alpha.0",
-    "@jupyterlab/notebook": "^4.4.0-alpha.0",
+    "@jupyterlab/notebook": "^0.1.2",
     "@jupyterlab/rendermime": "^4.4.0-alpha.0",
     "@jupyterlab/services": "^7.4.0-alpha.0",
     "@jupyterlab/theme-light-extension": "^4.4.0-alpha.0",
