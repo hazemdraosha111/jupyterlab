@@ -48,7 +48,7 @@
     "@jupyterlab/apputils": "^4.5.0-alpha.0",
     "@jupyterlab/attachments": "^4.4.0-alpha.0",
     "@jupyterlab/codeeditor": "^4.4.0-alpha.0",
-    "@jupyterlab/codemirror": "^4.4.0-alpha.0",
+    "@jupyterlab/codemirror": "^0.1.1",
     "@jupyterlab/coreutils": "^6.4.0-alpha.0",
     "@jupyterlab/documentsearch": "^4.4.0-alpha.0",
     "@jupyterlab/filebrowser": "^4.4.0-alpha.0",
