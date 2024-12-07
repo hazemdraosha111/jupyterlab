@@ -42,9 +42,9 @@
   "dependencies": {
     "@jupyter/ydoc": "^3.0.0",
     "@jupyterlab/apputils": "^4.5.0-alpha.0",
-    "@jupyterlab/cells": "^4.4.0-alpha.0",
+    "@jupyterlab/cells": "^0.1.2",
     "@jupyterlab/docregistry": "^4.4.0-alpha.0",
-    "@jupyterlab/notebook": "^4.4.0-alpha.0",
+    "@jupyterlab/notebook": "^0.1.2",
     "@jupyterlab/observables": "^5.4.0-alpha.0",
     "@jupyterlab/ui-components": "^4.4.0-alpha.0",
     "@lumino/algorithm": "^2.0.2",
