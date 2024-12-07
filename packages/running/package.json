@@ -37,7 +37,7 @@
   },
   "dependencies": {
     "@jupyter/react-components": "^0.16.6",
-    "@jupyterlab/apputils": "^4.5.0-alpha.0",
+    "@jupyterlab/apputils": "^0.1.1",
     "@jupyterlab/statedb": "^4.4.0-alpha.0",
     "@jupyterlab/translation": "^4.4.0-alpha.0",
     "@jupyterlab/ui-components": "^4.4.0-alpha.0",
