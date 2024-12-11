@@ -19,7 +19,7 @@
     "@jupyterlab/coreutils": "^6.4.0-alpha.0",
     "@jupyterlab/outputarea": "^4.4.0-alpha.0",
     "@jupyterlab/rendermime": "^4.4.0-alpha.0",
-    "@jupyterlab/services": "^7.4.0-alpha.0"
+    "@jupyterlab/services": "^0.22.0"
   },
   "devDependencies": {
     "css-loader": "^6.7.1",
