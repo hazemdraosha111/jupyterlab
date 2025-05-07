@@ -45,9 +45,9 @@
   },
   "dependencies": {
     "@jupyterlab/application": "^4.5.0-alpha.0",
-    "@jupyterlab/apputils": "^4.6.0-alpha.0",
+    "@jupyterlab/apputils": "^0.1.1",
     "@jupyterlab/coreutils": "^6.5.0-alpha.0",
-    "@jupyterlab/debugger": "^4.5.0-alpha.0",
+    "@jupyterlab/debugger": "^0.1.0",
     "@jupyterlab/docmanager": "^4.5.0-alpha.0",
     "@jupyterlab/nbformat": "^4.5.0-alpha.0",
     "@jupyterlab/notebook": "^4.5.0-alpha.0",
