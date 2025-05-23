@@ -40,7 +40,7 @@
     "watch": "tsc -b --watch"
   },
   "dependencies": {
-    "@jupyterlab/application": "^4.5.0-alpha.0",
+    "@jupyterlab/application": "^0.1.1",
     "@jupyterlab/settingregistry": "^4.5.0-alpha.0",
     "@jupyterlab/translation": "^4.5.0-alpha.0",
     "@jupyterlab/ui-components": "^4.5.0-alpha.0",
