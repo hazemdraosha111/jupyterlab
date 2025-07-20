@@ -35,10 +35,10 @@
   },
   "dependencies": {
     "@jupyterlab/application": "^4.5.0-alpha.1",
-    "@jupyterlab/apputils": "^4.6.0-alpha.1",
-    "@jupyterlab/cell-toolbar": "^4.5.0-alpha.1",
-    "@jupyterlab/settingregistry": "^4.5.0-alpha.1",
-    "@jupyterlab/translation": "^4.5.0-alpha.1"
+    "@jupyterlab/apputils": "^0.1.1",
+    "@jupyterlab/cell-toolbar": "^3.4.0",
+    "@jupyterlab/settingregistry": "^2.0.0",
+    "@jupyterlab/translation": "^3.0.0"
   },
   "devDependencies": {
     "rimraf": "~5.0.5",
