@@ -33,7 +33,7 @@
   "dependencies": {
     "@jupyterlab/application": "^4.5.0-alpha.3",
     "@jupyterlab/apputils": "^4.6.0-alpha.3",
-    "@jupyterlab/notebook": "^4.5.0-alpha.3",
+    "@jupyterlab/notebook": "^0.1.2",
     "@jupyterlab/rendermime": "^4.5.0-alpha.3",
     "@jupyterlab/testing": "^4.5.0-alpha.3"
   },
