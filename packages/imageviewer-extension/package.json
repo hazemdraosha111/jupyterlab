@@ -38,9 +38,9 @@
   },
   "dependencies": {
     "@jupyterlab/application": "^4.5.0-alpha.3",
-    "@jupyterlab/apputils": "^4.6.0-alpha.3",
+    "@jupyterlab/apputils": "^0.1.1",
     "@jupyterlab/docregistry": "^4.5.0-alpha.3",
-    "@jupyterlab/imageviewer": "^4.5.0-alpha.3",
+    "@jupyterlab/imageviewer": "^0.5.0",
     "@jupyterlab/translation": "^4.5.0-alpha.3"
   },
   "devDependencies": {
