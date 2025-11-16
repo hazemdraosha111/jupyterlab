@@ -42,9 +42,9 @@
   },
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.12.0",
-    "@jupyterlab/apputils": "^4.6.0-rc.1",
-    "@jupyterlab/coreutils": "^6.5.0-rc.1",
-    "@jupyterlab/docregistry": "^4.5.0-rc.1",
+    "@jupyterlab/apputils": "^0.1.1",
+    "@jupyterlab/coreutils": "^0.1.1",
+    "@jupyterlab/docregistry": "^0.1.3",
     "@jupyterlab/rendermime": "^4.5.0-rc.1",
     "@jupyterlab/rendermime-interfaces": "^3.13.0-rc.1",
     "@jupyterlab/services": "^7.5.0-rc.1",
