@@ -42,10 +42,10 @@
   "dependencies": {
     "@jupyter/react-components": "^0.16.6",
     "@jupyter/web-components": "^0.16.6",
-    "@jupyterlab/coreutils": "^6.5.0-rc.1",
+    "@jupyterlab/coreutils": "^0.1.1",
     "@jupyterlab/observables": "^5.5.0-rc.1",
     "@jupyterlab/rendermime-interfaces": "^3.13.0-rc.1",
-    "@jupyterlab/translation": "^4.5.0-rc.1",
+    "@jupyterlab/translation": "^3.0.0",
     "@lumino/algorithm": "^2.0.4",
     "@lumino/commands": "^2.3.3",
     "@lumino/coreutils": "^2.2.2",
