@@ -37,10 +37,10 @@
     "watch": "tsc -b --watch"
   },
   "dependencies": {
-    "@jupyterlab/application": "^4.5.0",
-    "@jupyterlab/apputils": "^4.6.0",
-    "@jupyterlab/coreutils": "^6.5.0",
-    "@jupyterlab/property-inspector": "^4.5.0",
+    "@jupyterlab/application": "^0.1.1",
+    "@jupyterlab/apputils": "^0.1.1",
+    "@jupyterlab/coreutils": "^0.1.1",
+    "@jupyterlab/property-inspector": "^2.0.0",
     "@jupyterlab/settingregistry": "^4.5.0",
     "@jupyterlab/statedb": "^4.5.0",
     "@jupyterlab/statusbar": "^4.5.0",
