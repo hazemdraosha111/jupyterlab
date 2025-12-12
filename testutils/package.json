@@ -33,9 +33,9 @@
   "dependencies": {
     "@jupyterlab/application": "^4.5.0",
     "@jupyterlab/apputils": "^4.6.0",
-    "@jupyterlab/notebook": "^4.5.0",
+    "@jupyterlab/notebook": "^0.1.2",
     "@jupyterlab/rendermime": "^4.5.0",
-    "@jupyterlab/testing": "^4.5.0"
+    "@jupyterlab/testing": "^4.0.0"
   },
   "devDependencies": {
     "rimraf": "~5.0.5",
