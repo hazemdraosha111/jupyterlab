@@ -42,8 +42,8 @@
   },
   "dependencies": {
     "@jupyterlab/coreutils": "^6.5.0",
-    "@jupyterlab/docregistry": "^4.5.0",
-    "@jupyterlab/translation": "^4.5.0",
+    "@jupyterlab/docregistry": "^0.1.3",
+    "@jupyterlab/translation": "^3.0.0",
     "@jupyterlab/ui-components": "^4.5.0",
     "@lumino/coreutils": "^2.2.2",
     "@lumino/datagrid": "^2.5.3",
