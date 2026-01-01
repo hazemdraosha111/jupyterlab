@@ -39,8 +39,8 @@
   },
   "dependencies": {
     "@jupyterlab/application": "^4.6.0-alpha.0",
-    "@jupyterlab/apputils": "^4.7.0-alpha.0",
-    "@jupyterlab/extensionmanager": "^4.6.0-alpha.0",
+    "@jupyterlab/apputils": "^0.1.1",
+    "@jupyterlab/extensionmanager": "^0.17.1",
     "@jupyterlab/settingregistry": "^4.6.0-alpha.0",
     "@jupyterlab/translation": "^4.6.0-alpha.0",
     "@jupyterlab/ui-components": "^4.6.0-alpha.0"
