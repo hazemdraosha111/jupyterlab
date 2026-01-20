@@ -40,11 +40,11 @@
   },
   "dependencies": {
     "@jupyterlab/application": "^4.6.0-alpha.1",
-    "@jupyterlab/metadataform": "^4.6.0-alpha.1",
+    "@jupyterlab/metadataform": "^4.0.0",
     "@jupyterlab/notebook": "^4.6.0-alpha.1",
-    "@jupyterlab/settingregistry": "^4.6.0-alpha.1",
+    "@jupyterlab/settingregistry": "^2.0.0",
     "@jupyterlab/translation": "^4.6.0-alpha.1",
-    "@jupyterlab/ui-components": "^4.6.0-alpha.1",
+    "@jupyterlab/ui-components": "^1.0.0",
     "@lumino/coreutils": "^2.2.2"
   },
   "devDependencies": {
