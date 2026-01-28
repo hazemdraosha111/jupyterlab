@@ -34,8 +34,8 @@
   },
   "dependencies": {
     "@jupyterlab/application": "^4.6.0-alpha.2",
-    "@jupyterlab/apputils": "^4.7.0-alpha.2",
-    "@jupyterlab/docmanager": "^4.6.0-alpha.2",
+    "@jupyterlab/apputils": "^0.1.1",
+    "@jupyterlab/docmanager": "^0.1.2",
     "@jupyterlab/rendermime": "^4.6.0-alpha.2",
     "@jupyterlab/translation": "^4.6.0-alpha.2"
   },
