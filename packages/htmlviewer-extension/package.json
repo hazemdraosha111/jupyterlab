@@ -36,11 +36,11 @@
   },
   "dependencies": {
     "@jupyterlab/application": "^4.6.0-alpha.2",
-    "@jupyterlab/apputils": "^4.7.0-alpha.2",
+    "@jupyterlab/apputils": "^0.1.1",
     "@jupyterlab/docregistry": "^4.6.0-alpha.2",
-    "@jupyterlab/htmlviewer": "^4.6.0-alpha.2",
+    "@jupyterlab/htmlviewer": "^1.0.0",
     "@jupyterlab/observables": "^5.6.0-alpha.2",
-    "@jupyterlab/settingregistry": "^4.6.0-alpha.2",
+    "@jupyterlab/settingregistry": "^4.0.0",
     "@jupyterlab/translation": "^4.6.0-alpha.2",
     "@jupyterlab/ui-components": "^4.6.0-alpha.2"
   },
