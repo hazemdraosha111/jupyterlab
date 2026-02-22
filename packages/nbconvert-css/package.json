@@ -34,10 +34,10 @@
   },
   "dependencies": {
     "@jupyterlab/application": "^4.6.0-alpha.2",
-    "@jupyterlab/apputils": "^4.7.0-alpha.2",
-    "@jupyterlab/cells": "^4.6.0-alpha.2",
+    "@jupyterlab/apputils": "^0.1.1",
+    "@jupyterlab/cells": "^0.1.2",
     "@jupyterlab/codemirror": "^4.6.0-alpha.2",
-    "@jupyterlab/notebook": "^4.6.0-alpha.2",
+    "@jupyterlab/notebook": "^0.1.2",
     "@jupyterlab/outputarea": "^4.6.0-alpha.2",
     "@jupyterlab/rendermime": "^4.6.0-alpha.2"
   },
