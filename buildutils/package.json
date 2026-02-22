@@ -47,18 +47,18 @@
     "crypto": "~1.0.1",
     "dependency-graph": "^0.11.0",
     "fs-extra": "^10.1.0",
-    "glob": "~7.1.6",
+    "glob": "~12.0.0",
     "inquirer": "^9.1.4",
     "micromatch": "^4.0.2",
-    "minimatch": "~3.0.4",
+    "minimatch": "~10.2.1",
     "os": "~0.1.1",
     "package-json": "^7.0.0",
     "prettier": "^3.8.1",
     "process": "^0.11.10",
     "semver": "^7.5.2",
-    "sort-package-json": "~1.53.1",
+    "sort-package-json": "~1.56.0",
     "typescript": "~5.9.3",
-    "verdaccio": "^6.0.0"
+    "verdaccio": "^6.2.7"
   },
   "devDependencies": {
     "@types/fs-extra": "^9.0.1",
