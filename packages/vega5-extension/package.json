@@ -37,7 +37,7 @@
     "watch": "tsc -b --watch"
   },
   "dependencies": {
-    "@jupyterlab/rendermime-interfaces": "^3.14.0-alpha.3",
+    "@jupyterlab/rendermime-interfaces": "^0.2.0",
     "@lumino/coreutils": "^2.2.2",
     "@lumino/widgets": "^2.7.5",
     "vega": "^5.20.0",
