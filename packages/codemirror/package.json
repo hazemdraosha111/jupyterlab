@@ -60,7 +60,7 @@
     "@jupyter/ydoc": "^3.1.0",
     "@jupyterlab/codeeditor": "^4.6.0-alpha.4",
     "@jupyterlab/coreutils": "^6.6.0-alpha.4",
-    "@jupyterlab/documentsearch": "^4.6.0-alpha.4",
+    "@jupyterlab/documentsearch": "^1.0.0",
     "@jupyterlab/nbformat": "^4.6.0-alpha.4",
     "@jupyterlab/translation": "^4.6.0-alpha.4",
     "@lezer/common": "^1.2.1",
