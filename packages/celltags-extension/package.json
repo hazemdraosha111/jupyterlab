@@ -41,7 +41,7 @@
   },
   "dependencies": {
     "@jupyterlab/application": "^4.6.0-alpha.4",
-    "@jupyterlab/notebook": "^4.6.0-alpha.4",
+    "@jupyterlab/notebook": "^0.1.2",
     "@jupyterlab/translation": "^4.6.0-alpha.4",
     "@jupyterlab/ui-components": "^4.6.0-alpha.4",
     "@lumino/algorithm": "^2.0.4",
