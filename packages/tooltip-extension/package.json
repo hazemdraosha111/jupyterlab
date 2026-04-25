@@ -42,7 +42,7 @@
     "@jupyterlab/console": "^4.6.0-alpha.4",
     "@jupyterlab/coreutils": "^6.6.0-alpha.4",
     "@jupyterlab/fileeditor": "^4.6.0-alpha.4",
-    "@jupyterlab/notebook": "^4.6.0-alpha.4",
+    "@jupyterlab/notebook": "^0.1.2",
     "@jupyterlab/rendermime": "^4.6.0-alpha.4",
     "@jupyterlab/services": "^7.6.0-alpha.4",
     "@jupyterlab/tooltip": "^4.6.0-alpha.4",
