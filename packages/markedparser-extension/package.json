@@ -38,7 +38,7 @@
     "@jupyterlab/application": "^4.6.0-alpha.4",
     "@jupyterlab/codemirror": "^4.6.0-alpha.4",
     "@jupyterlab/coreutils": "^6.6.0-alpha.4",
-    "@jupyterlab/mermaid": "^4.6.0-alpha.4",
+    "@jupyterlab/mermaid": "^4.4.0",
     "@jupyterlab/rendermime": "^4.6.0-alpha.4",
     "@lumino/coreutils": "^2.2.2",
     "marked": "^17.0.4",
