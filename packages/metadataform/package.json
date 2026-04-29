@@ -47,7 +47,7 @@
   "dependencies": {
     "@jupyterlab/apputils": "^4.7.0-alpha.4",
     "@jupyterlab/nbformat": "^4.6.0-alpha.4",
-    "@jupyterlab/notebook": "^4.6.0-alpha.4",
+    "@jupyterlab/notebook": "^0.1.2",
     "@jupyterlab/settingregistry": "^4.6.0-alpha.4",
     "@jupyterlab/translation": "^4.6.0-alpha.4",
     "@jupyterlab/ui-components": "^4.6.0-alpha.4",
