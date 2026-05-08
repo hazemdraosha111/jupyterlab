@@ -33,10 +33,10 @@
     "watch": "tsc -b --watch"
   },
   "dependencies": {
-    "@jupyterlab/application": "^4.6.0-alpha.5",
-    "@jupyterlab/apputils": "^4.7.0-alpha.5",
-    "@jupyterlab/docmanager": "^4.6.0-alpha.5",
-    "@jupyterlab/rendermime": "^4.6.0-alpha.5",
+    "@jupyterlab/application": "^0.1.1",
+    "@jupyterlab/apputils": "^4.6.7",
+    "@jupyterlab/docmanager": "^4.0.0",
+    "@jupyterlab/rendermime": "^4.5.7",
     "@jupyterlab/translation": "^4.6.0-alpha.5"
   },
   "devDependencies": {
