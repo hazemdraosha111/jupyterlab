@@ -47,7 +47,7 @@
     "@jupyterlab/application": "^4.6.0-alpha.5",
     "@jupyterlab/apputils": "^4.7.0-alpha.5",
     "@jupyterlab/coreutils": "^6.6.0-alpha.5",
-    "@jupyterlab/debugger": "^4.6.0-alpha.5",
+    "@jupyterlab/debugger": "^0.1.0",
     "@jupyterlab/docmanager": "^4.6.0-alpha.5",
     "@jupyterlab/nbformat": "^4.6.0-alpha.5",
     "@jupyterlab/notebook": "^4.6.0-alpha.5",
