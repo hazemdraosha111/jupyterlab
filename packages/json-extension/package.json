@@ -33,7 +33,7 @@
   },
   "dependencies": {
     "@jupyterlab/apputils": "^4.7.0-alpha.5",
-    "@jupyterlab/codemirror": "^4.6.0-alpha.5",
+    "@jupyterlab/codemirror": "^0.1.1",
     "@jupyterlab/rendermime-interfaces": "^3.14.0-alpha.5",
     "@jupyterlab/translation": "^4.6.0-alpha.5",
     "@jupyterlab/ui-components": "^4.6.0-alpha.5",
