@@ -40,8 +40,8 @@
   "dependencies": {
     "@jupyterlab/coreutils": "^6.6.0-alpha.5",
     "@jupyterlab/nbformat": "^4.6.0-alpha.5",
-    "@jupyterlab/outputarea": "^4.6.0-alpha.5",
-    "@jupyterlab/rendermime": "^4.6.0-alpha.5",
+    "@jupyterlab/outputarea": "^4.0.0",
+    "@jupyterlab/rendermime": "^4.5.7",
     "@jupyterlab/services": "^7.6.0-alpha.5",
     "@jupyterlab/translation": "^4.6.0-alpha.5",
     "@lumino/coreutils": "^2.2.2",
