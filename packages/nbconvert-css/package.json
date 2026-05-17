@@ -34,12 +34,12 @@
   },
   "dependencies": {
     "@jupyterlab/application": "^4.6.0-alpha.5",
-    "@jupyterlab/apputils": "^4.7.0-alpha.5",
-    "@jupyterlab/cells": "^4.6.0-alpha.5",
+    "@jupyterlab/apputils": "^4.6.7",
+    "@jupyterlab/cells": "^4.0.0",
     "@jupyterlab/codemirror": "^4.6.0-alpha.5",
-    "@jupyterlab/notebook": "^4.6.0-alpha.5",
-    "@jupyterlab/outputarea": "^4.6.0-alpha.5",
-    "@jupyterlab/rendermime": "^4.6.0-alpha.5"
+    "@jupyterlab/notebook": "^4.5.7",
+    "@jupyterlab/outputarea": "^4.0.0",
+    "@jupyterlab/rendermime": "^4.5.7"
   },
   "devDependencies": {
     "@rspack/cli": "^2.0.2",
