@@ -38,12 +38,12 @@
   },
   "dependencies": {
     "@jupyterlab/application": "^4.6.0-alpha.5",
-    "@jupyterlab/apputils": "^4.7.0-alpha.5",
+    "@jupyterlab/apputils": "^4.6.7",
     "@jupyterlab/coreutils": "^6.6.0-alpha.5",
-    "@jupyterlab/markdownviewer": "^4.6.0-alpha.5",
-    "@jupyterlab/rendermime": "^4.6.0-alpha.5",
+    "@jupyterlab/markdownviewer": "^4.0.0",
+    "@jupyterlab/rendermime": "^4.5.7",
     "@jupyterlab/settingregistry": "^4.6.0-alpha.5",
-    "@jupyterlab/toc": "^6.6.0-alpha.5",
+    "@jupyterlab/toc": "^0.3.0",
     "@jupyterlab/translation": "^4.6.0-alpha.5"
   },
   "devDependencies": {
