@@ -19,7 +19,7 @@
     "@jupyterlab/coreutils": "^6.7.0-alpha.0",
     "@jupyterlab/outputarea": "^4.7.0-alpha.0",
     "@jupyterlab/rendermime": "^4.7.0-alpha.0",
-    "@jupyterlab/services": "^7.7.0-alpha.0"
+    "@jupyterlab/services": "^0.22.0"
   },
   "devDependencies": {
     "@rspack/cli": "^2.0.2",
