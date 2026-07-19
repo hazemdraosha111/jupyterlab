@@ -36,7 +36,7 @@
     "@fontsource/dejavu-mono": "^5.2.5",
     "@fontsource/dejavu-sans": "^5.2.5",
     "@jupyterlab/application": "^4.7.0-alpha.0",
-    "@jupyterlab/apputils": "^4.8.0-alpha.0",
+    "@jupyterlab/apputils": "^0.1.1",
     "@jupyterlab/cells": "^4.7.0-alpha.0",
     "@jupyterlab/debugger": "^4.7.0-alpha.0",
     "@jupyterlab/docmanager": "^4.7.0-alpha.0",
