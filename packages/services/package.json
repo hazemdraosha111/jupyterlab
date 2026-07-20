@@ -48,7 +48,7 @@
     "@jupyter/ydoc": "^4.0.0",
     "@jupyterlab/coreutils": "^6.7.0-alpha.0",
     "@jupyterlab/nbformat": "^4.7.0-alpha.0",
-    "@jupyterlab/settingregistry": "^4.7.0-alpha.0",
+    "@jupyterlab/settingregistry": "^2.0.0",
     "@jupyterlab/statedb": "^4.7.0-alpha.0",
     "@lumino/coreutils": "^2.2.3",
     "@lumino/disposable": "^2.1.6",
