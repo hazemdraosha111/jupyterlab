@@ -40,10 +40,10 @@
   "dependencies": {
     "@jupyterlab/coreutils": "^6.7.0-alpha.1",
     "@jupyterlab/nbformat": "^4.7.0-alpha.1",
-    "@jupyterlab/outputarea": "^4.7.0-alpha.1",
+    "@jupyterlab/outputarea": "^0.1.2",
     "@jupyterlab/rendermime": "^4.7.0-alpha.1",
-    "@jupyterlab/services": "^7.7.0-alpha.1",
-    "@jupyterlab/translation": "^4.7.0-alpha.1",
+    "@jupyterlab/services": "^0.22.0",
+    "@jupyterlab/translation": "^4.0.0",
     "@lumino/coreutils": "^2.2.3",
     "@lumino/disposable": "^2.1.6",
     "@lumino/messaging": "^2.0.5",
