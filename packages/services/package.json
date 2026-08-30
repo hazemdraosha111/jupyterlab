@@ -46,16 +46,16 @@
   },
   "dependencies": {
     "@jupyter/ydoc": "^4.0.0",
-    "@jupyterlab/coreutils": "^6.7.0-alpha.1",
+    "@jupyterlab/coreutils": "^0.1.1",
     "@jupyterlab/nbformat": "^4.7.0-alpha.1",
-    "@jupyterlab/settingregistry": "^4.7.0-alpha.1",
+    "@jupyterlab/settingregistry": "^4.0.0",
     "@jupyterlab/statedb": "^4.7.0-alpha.1",
     "@lumino/coreutils": "^2.2.3",
     "@lumino/disposable": "^2.1.6",
     "@lumino/polling": "^2.1.6",
     "@lumino/properties": "^2.0.5",
     "@lumino/signaling": "^2.1.6",
-    "ws": "^8.11.0"
+    "ws": "^8.21.1"
   },
   "devDependencies": {
     "@jupyterlab/testing": "^4.7.0-alpha.1",
